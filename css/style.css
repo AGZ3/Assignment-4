@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
+
+.wrapper{
+    box-sizing: border-box;
+    padding-top: 65px;
+}
+
+nav{
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: white;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+img{
+    height: 200px;
+}
